@@ -3,10 +3,15 @@
 Theratunes combines AI and music therapy to help users enhance their mood through personalized playlists, mood analysis, and relaxation techniques. By leveraging state-of-the-art language models and APIs, Theratunes offers a therapeutic conversational experience and curates music tailored to user emotions.
 
 ## 🛠️ Features
+
 1)Mood Analysis: Conversational AI (powered by Google Gemma) analyzes user inputs to detect emotions and mental states.
+
 2)Personalized Playlists: Creates Spotify playlists based on real-time mood analysis using the Spotify API.
+
 3)Relaxation Techniques: Provides guided breathing exercises, positive affirmations, and other relaxation suggestions.
+
 4)Conversation Tracking: Stores user conversations to enhance personalization and provide better context.
+
 5)User-Friendly Design: Integrated database for storing user interactions and customizable sessions.
 
 ## 🔧 Installation
@@ -42,6 +47,7 @@ Run the application:
 uvicorn app.main:app --reload
 ```
 ## 📚 Usage
+
 ### Have a Conversation
 Use the /chat endpoint to analyze your mood and receive personalized suggestions.
 
@@ -57,7 +63,9 @@ AI Models: Google Gemma, Sentence Transformers
 APIs: Spotify API
 
 ## 🤝 Contributing
+
 Contributions are welcome! Please follow these steps:
+
 1)Fork the repository.
 
 2)Create a new branch for your feature:
