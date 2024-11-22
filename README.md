@@ -1,4 +1,5 @@
-#🎵 Theratunes: AI-Powered Therapy and Personalized Playlists
+# 🎵 Theratunes: AI-Powered Therapy and Personalized Playlists
+
 Theratunes combines AI and music therapy to help users enhance their mood through personalized playlists, mood analysis, and relaxation techniques. By leveraging state-of-the-art language models and APIs, Theratunes offers a therapeutic conversational experience and curates music tailored to user emotions.
 
 ##🛠️ Features
